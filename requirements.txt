@@ -6,3 +6,4 @@ python-dotenv
 pandas
 altair
 requests
+werkzeug
